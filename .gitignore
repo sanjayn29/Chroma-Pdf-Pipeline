@@ -1,0 +1,23 @@
+# Local ChromaDB data and generated indexes
+my_chroma_db/
+
+# Source PDFs (keep the documents local; add an explicit exception if desired)
+*.pdf
+
+# Python bytecode and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Local environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
