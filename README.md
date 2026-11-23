@@ -122,3 +122,19 @@ separation; this script does not currently do that automatically.
 Displaying records is for inspection. The program does not currently provide a
 query interface, similarity search, answer generation, OCR, or automatic
 fixed-size chunking.
+
+# 👨‍💻 Developer
+
+**Sanjay N**
+
+🚀 Freelancer  
+
+🌐 Portfolio: https://sanjayn.me  
+💼 LinkedIn: https://linkedin.com/in/sanjayn29  
+🐙 GitHub: https://github.com/sanjayn29  
+
+---
+
+# ⭐ Support
+
+If you like this project, consider giving it a **star ⭐ on GitHub** to support the development.
